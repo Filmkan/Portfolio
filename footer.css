@@ -1,0 +1,19 @@
+#footer_slim{
+    padding: 40px 0;
+    background: var(--secondary-color);
+    text-align: center;
+}
+
+#footer_slim .contact_line{
+    font-size: 18px;
+    color: var(--text-color);
+}
+
+#footer_slim a{
+    color: var(--main-brand-color);
+    text-decoration: none;
+}
+
+#footer_slim a:hover{
+    text-decoration: underline;
+}
